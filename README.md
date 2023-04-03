@@ -1,5 +1,5 @@
 You can see the deployed version here:
-https://mrrecipe.netlify.app/
+[live](https://mrrecipe.netlify.app/)
 API: spoonacular
 Functionalities:
 search splideJS
