@@ -1,4 +1,4 @@
-#mrrecipe
+# mrrecipe
 You can see the deployed version here:
 [live](https://mrrecipe.netlify.app/)
 API: **spoonacular**
